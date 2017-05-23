@@ -1,0 +1,9 @@
+C:\Users\MHR\OneDrive\Development\Ach\EllipseDrawingAndStats\EllipseDrawingAndStats\bin\Debug\EllipseDrawingAndStats.exe.config
+C:\Users\MHR\OneDrive\Development\Ach\EllipseDrawingAndStats\EllipseDrawingAndStats\bin\Debug\EllipseDrawingAndStats.exe
+C:\Users\MHR\OneDrive\Development\Ach\EllipseDrawingAndStats\EllipseDrawingAndStats\bin\Debug\EllipseDrawingAndStats.pdb
+C:\Users\MHR\OneDrive\Development\Ach\EllipseDrawingAndStats\EllipseDrawingAndStats\obj\Debug\EllipseDrawingAndStats.csprojResolveAssemblyReference.cache
+C:\Users\MHR\OneDrive\Development\Ach\EllipseDrawingAndStats\EllipseDrawingAndStats\obj\Debug\EllipseDrawingAndStats.Form1.resources
+C:\Users\MHR\OneDrive\Development\Ach\EllipseDrawingAndStats\EllipseDrawingAndStats\obj\Debug\EllipseDrawingAndStats.Properties.Resources.resources
+C:\Users\MHR\OneDrive\Development\Ach\EllipseDrawingAndStats\EllipseDrawingAndStats\obj\Debug\EllipseDrawingAndStats.csproj.GenerateResource.Cache
+C:\Users\MHR\OneDrive\Development\Ach\EllipseDrawingAndStats\EllipseDrawingAndStats\obj\Debug\EllipseDrawingAndStats.exe
+C:\Users\MHR\OneDrive\Development\Ach\EllipseDrawingAndStats\EllipseDrawingAndStats\obj\Debug\EllipseDrawingAndStats.pdb
